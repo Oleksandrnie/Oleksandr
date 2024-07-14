@@ -3,7 +3,7 @@
 ### <img src='https://media.giphy.com/media/arjWhhUEu1Nvi9l8X3/giphy.gif' width='100px'>
 
 
-### My name is Aleksandr ###
+### My name is Oleksandr ###
 ### I am a frontend developer ###
 
 
@@ -11,7 +11,7 @@
 
 
 📩 Contact with me: 
-[telegram](https://t.me/Aleksandrn97) 
+[telegram](https://t.me/aniemchenko) 
 [@gmail](alexandrnemchenko97@gmail.com)
 
 
